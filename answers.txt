@@ -1,0 +1,34 @@
+The THIEF is:Bruce
+The city the thief ESCAPED TO: New York
+The ACCOMPLICE is: Robin
+
+
+
+
+phone number <60:
+
+|  name   |
++---------+
+| Kenny   |
+| Sofia   |
+| Benista |
+| Taylor  |
+| Diana   |
+| Kelsey  |
+| Bruce   |
+| Carina  |
++---------+
+
+people of flight 36:
++--------+
+|  name  |
++--------+
+| Doris  |
+| Sofia  |
+| Bruce  |
+| Edward |
+| Kelsey |
+| Taylor |
+| Kenny  |
+| Luca   |
++--------+
