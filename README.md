@@ -7,7 +7,6 @@ This repository documents my solution to the "Fiftyville Duck Theft Mystery," an
 This project demonstrates my skills in:
 - SQL query writing
 - Database analysis
-- Logical deduction
 - Problem-solving with real-world constraints
 
 # Case Details
