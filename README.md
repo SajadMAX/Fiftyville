@@ -1,4 +1,4 @@
-# Project Overview
+# Overview
 This repository documents my solution to the "Fiftyville Duck Theft Mystery," an SQL-based investigation where I analyzed a database to identify:
 1. The thief who stole the CS50 Duck
 2. The city the thief escaped to
